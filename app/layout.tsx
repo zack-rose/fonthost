@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Neue Montreal Font Host',
-  description: 'Publicly hosted Neue Montreal font family',
+  title: '',
+  description: '',
 };
 
 export default function RootLayout({
